@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+langchain
+langchain-community
+chromadb
+apscheduler
+beautifulsoup4
+python-multipart

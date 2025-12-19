@@ -1,0 +1,14 @@
+{
+  "sources": [
+    {
+      "type": "website",
+      "url": "https://example.com",
+      "update_frequency": "daily"
+    },
+    {
+      "type": "rss",
+      "url": "https://example.com/feed.xml",
+      "update_frequency": "daily"
+    }
+  ]
+}
